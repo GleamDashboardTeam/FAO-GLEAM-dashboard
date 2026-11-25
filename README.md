@@ -80,7 +80,6 @@ The challenge runs in two rounds:
 
 **One winning team** receives:
 
-- 🏆 FAO recognition certificates
 - ✍️ Authorship credit on the global GLEAM dashboard
 - 🤝 Collaboration opportunity with the GLEAM team
 - 📊 Professional training in livestock data and analysis
@@ -113,7 +112,7 @@ All 5 finalists receive written jury feedback and GLEAM mentorship during Round 
 
 ### Demo requirements
 
-- **Any development framework** (e.g. R Shiny, Shiny for Python, Dash, Streamlit, JavaScript). The current GLEAM dashboards are built with R Shiny.
+- **Any development framework** (e.g. R Shiny, Shiny for Python, Dash, Streamlit, JavaScript). 
 - **Clickable and real:** a user can click through your main user journey, and the screens show real values from the data package. Covering **both emissions and water** is essential; covering every indicator is not.
 - **Public link** that opens without sign-in and stays online until at least **30 April 2027**.
 - **Runs from your code:** someone else can run it by following your README (`renv.lock` for R or `requirements.txt` for Python recommended).
@@ -170,7 +169,7 @@ Name your repository `gleam-lens-<team-name>` (lower case, hyphens, no spaces). 
 Your repository may stay **private**.
 
 1. On GitHub, open your repository and go to **Settings → Collaborators and teams**.
-2. Under **Manage access**, click **Add people** and add the GLEAM account **`[GLEAM GitHub account: TBC]`**.
+2. Under **Manage access**, click **Add people** and add the GLEAM dashboard team account **`[info-gleam@fao.org]`**.
 3. Grant at least **Read** access.
 4. Complete the [online application form](https://forms.cloud.microsoft/e/wq0Mey9Mky) with your team details, repository link and demo link, and submit.
 
@@ -186,12 +185,10 @@ At the deadline, the GLEAM team records the latest commit on your default branch
 
 | Criterion | Weight | What the jury looks for in Round 1 |
 |---|---|---|
-| Integration of emissions and water | 20% | One experience, not two dashboards side by side; shared filters; views that show trade-offs and co-benefits |
-| User-centred design and storytelling | 20% | Clear users and tasks; key insights reachable in a few clicks |
-| Data fidelity and transparency | 20% | Correct values, units and definitions; sources easy to find |
-| Usability and accessibility | 15% | Plain language; readable on mobile; colour-blind-safe; light on bandwidth |
-| Technical feasibility and handover | 15% | Clean, documented code; runs from the README; credible plan to develop further |
-| Originality | 10% | Fresh ideas beyond the current dashboards |
+| Coherence of Emissions and Water integration | 25% | One experience, not two dashboards side by side; shared filters; views that show trade-offs and co-benefits |
+| User-centred design and storytelling | 25% | Clear users and tasks; key insights reachable in a few clicks |
+| Usability and accessibility | 25% | Plain language; readable on mobile; colour-blind-safe; light on bandwidth |
+| Technical feasibility and handover | 25% | Clean, documented code; runs from the README; credible plan to develop further |
 
 The **5 highest-scoring teams** become finalists and receive written jury feedback, which is the starting point for GLEAM mentorship in Round 2. Full details are in the assessment criteria in [`docs/`](docs/).
 
