@@ -197,7 +197,7 @@ The **5 highest-scoring teams** become finalists and receive written jury feedba
 AI tools, including “vibe coding” (building an app largely by prompting an AI code assistant), are welcome, provided you respect these rules:
 
 1. **No AI-generated numbers.** Every value shown must be traceable to the data package.
-2. **Disclose** all AI use in `docs/ai_use_disclosure.md`(docs/ai_use_disclosure.md).
+2. **Disclose** all AI use in `docs/ai_use_disclosure.md`(docs/ai_use_disclosure.md/).
 3. **Understand your work.** Your team must be able to explain and change every part of your app.
 4. **Check facts** about GLEAM methods against official documentation; no invented references.
 5. **Respect licences, privacy and security.** Never paste personal data, passwords or keys into AI tools.
