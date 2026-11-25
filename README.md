@@ -161,7 +161,7 @@ Name your repository `gleam-lens-<team-name>` (lower case, hyphens, no spaces). 
 4. **How to run:** language and version, packages, where to place the data, and the command to start the app.
 5. **Data used:** files and variables from the data package, and formulas for any derived indicator.
 6. **Licences:** code under AGPL-3.0; other materials (design concept, images) under CC BY 4.0.
-7. **AI use:** one line summarising AI use, pointing to `docs/ai_use_disclosure.md`.
+7. **AI use:** one line summarising AI use, pointing to `docs/ai_use_disclosure.md`(docs/ai_use_disclosure.md).
 8. **Acknowledgement:** “Built with data from FAO’s Global Livestock Environmental Assessment Model (GLEAM).”
 
 ## How to submit
@@ -197,7 +197,7 @@ The **5 highest-scoring teams** become finalists and receive written jury feedba
 AI tools, including “vibe coding” (building an app largely by prompting an AI code assistant), are welcome, provided you respect these rules:
 
 1. **No AI-generated numbers.** Every value shown must be traceable to the data package.
-2. **Disclose** all AI use in `docs/ai_use_disclosure.md`.
+2. **Disclose** all AI use in `docs/ai_use_disclosure.md`(docs/ai_use_disclosure.md).
 3. **Understand your work.** Your team must be able to explain and change every part of your app.
 4. **Check facts** about GLEAM methods against official documentation; no invented references.
 5. **Respect licences, privacy and security.** Never paste personal data, passwords or keys into AI tools.
@@ -228,11 +228,11 @@ Signed (all members): <names>
 
 A signed agreement is **mandatory**: submissions without it are incomplete and will not be assessed. In it, the Team Leader confirms on behalf of all members that the work is original, that it is released under **AGPL-3.0** (code) and **CC BY 4.0** (other materials), that all members are eligible, and that the challenge rules, including the AI rules, have been followed. Members keep their intellectual property. One signature covers both rounds. Read the whole agreement before signing.
 
-1. Download the agreement from [`docs/`](docs/).
+1. Download the agreement (docs/open_source_sharing_agreement.word): Word (.docx) to fill in, or PDF to read from [`docs/`](docs/).
 2. Enter the date and the Team Leader’s full name at the top.
 3. In the Article 2 table, list every member with full name, role (Team Leader/team member), university and team name.
 4. Fill in the Team Leader’s name and signature at the end. Leave the FAO block blank.
-5. Save as PDF named `GLEAM_Lens_Open_Source_Sharing_Agreement_signed.pdf` and commit it to your repository root before the deadline. Do not send it by email.
+5. Save as PDF named `open_source_sharing_agreement_signed.pdf` and commit it to your repository root before the deadline. Do not send it by email.
 
 ## Pre-submission checklist
 
