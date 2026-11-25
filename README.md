@@ -228,7 +228,7 @@ Signed (all members): <names>
 
 A signed agreement is **mandatory**: submissions without it are incomplete and will not be assessed. In it, the Team Leader confirms on behalf of all members that the work is original, that it is released under **AGPL-3.0** (code) and **CC BY 4.0** (other materials), that all members are eligible, and that the challenge rules, including the AI rules, have been followed. Members keep their intellectual property. One signature covers both rounds. Read the whole agreement before signing.
 
-1. Download the [Open-Source Sharing Agreement](docs/open_source_sharing_agreement.docx): Word (.docx) to fill in, or PDF to read from [`docs/`](docs/).
+1. Download the [Open-Source Sharing Agreement] Word (.docx) to fill in, or PDF to read from [`docs/`](docs/).
 2. Enter the date and the Team Leader’s full name at the top.
 3. In the Article 2 table, list every member with full name, role (Team Leader/team member), university and team name.
 4. Fill in the Team Leader’s name and signature at the end. Leave the FAO block blank.
