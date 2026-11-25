@@ -169,7 +169,7 @@ Name your repository `gleam-lens-<team-name>` (lower case, hyphens, no spaces). 
 Your repository may stay **private**.
 
 1. On GitHub, open your repository and go to **Settings → Collaborators and teams**.
-2. Under **Manage access**, click **Add people** and add the GLEAM dashboard team account **`[info-gleam@fao.org]`**.
+2. Under **Manage access**, click **Add people** and add the GLEAM dashboard team account `info-gleam@fao.org`.
 3. Grant at least **Read** access.
 4. Complete the [online application form](https://forms.cloud.microsoft/e/wq0Mey9Mky) with your team details, repository link and demo link, and submit.
 
